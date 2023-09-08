@@ -1,0 +1,11 @@
+#real-alert {
+    color: red;
+}
+
+#test-only {
+    color: blue;
+}
+
+.missle-link {
+    display:block;
+}
